@@ -1,0 +1,13 @@
+our goal is to create a game where the challenge is finding out how
+you achieved your goal, not how to achieve it
+
+give a pretty simple goal
+
+"You're plahing, one on ONE, with the BIG MAN"
+"iT'S TIME to catchc . . . some UNREAL AIR"
+"put that rock through the hoop"
+
+there will be three checks
+1. check input.length
+2. check the number of vowels in the input, give them scores
+3. check for a random string within the command
