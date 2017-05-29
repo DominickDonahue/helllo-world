@@ -1,4 +1,4 @@
 # helllo-world
 Initial test repository
 
-Hello, I'm just fucking around here. See you around!
+Right here I'm mostly uploading programs I write as part of learning Python. Hopefull that will change in the future!
